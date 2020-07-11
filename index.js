@@ -88,14 +88,14 @@ class RewardPoints {
   }
 }
 
-//customers = 
+//data avaiable for
+//customers : chandler, monica, joey, ross, pheobe, rachel
+//months: may, june , july
 
 let data = new RewardPoints(Data);
 let name = "Chandler";
 let singleMonth = "june";
 let months = ["may", "june", "july"];
-
-
 
 console.log(
   data.setCustomer(name),
